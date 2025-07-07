@@ -1,0 +1,3 @@
+name score
+john 85
+jane 92
