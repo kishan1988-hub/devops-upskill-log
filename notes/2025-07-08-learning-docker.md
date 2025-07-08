@@ -19,3 +19,5 @@ docker stats <container running name>
 # logging
 docker logs <container name>
 
+# remove container 
+docker rm <container name>
